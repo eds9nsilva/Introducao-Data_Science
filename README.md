@@ -9,5 +9,5 @@ Com o propósito de compartilhar o que estou estudando ou já estudei:closed_boo
 <br><br>
 
 **Ordem dos arquivos**<br>
-*1.0 Numpy*
+*1.0 Numpy* <br>
 *2.0 Pandas*
