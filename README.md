@@ -3,7 +3,6 @@ Algumas das ferramentas fundamentais para Ciência de Dados :computer: :chart_wi
 <br>
 
 Repositório com algumas das bibliotecas básicas para o mundo de Ciência de Dados...<br><br>
-Estou acompanhando alguns post que coloco em meu blog pessoal www.eds9nsilva.tech :earth_americas::calling:
 <br>
 Com o propósito de compartilhar o que estou estudando ou já estudei:closed_book:
 <br><br>
@@ -13,3 +12,5 @@ Com o propósito de compartilhar o que estou estudando ou já estudei:closed_boo
 *2.0 Pandas*
 <br>
 ---*2.1 dataFrame*
+<br>
+----*2.2 DadosAusentes*
