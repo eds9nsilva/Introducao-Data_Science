@@ -13,4 +13,4 @@ Com o propósito de compartilhar o que estou estudando ou já estudei:closed_boo
 <br>
 ---*2.1 dataFrame*
 <br>
-----*2.2 DadosAusentes*
+---*2.2 DadosAusentes*
