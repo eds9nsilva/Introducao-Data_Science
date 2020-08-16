@@ -4,6 +4,7 @@ Algumas das ferramentas fundamentais para Ciência de Dados :computer: :chart_wi
 Criei este repósitorio com o propósito de compartilhar o que estou estudando ou já estudei:closed_book:
 <br>
 **Ordem dos arquivos**<br>
+**Analise de Dados**<br>
 *1.0 Numpy* <br>
 *2.0 Pandas*
 <br>
